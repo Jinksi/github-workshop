@@ -1,7 +1,7 @@
 ## Challenges
 
 - Start using GitHub for your own projects
-- Make this repo public
+- Make a public repo
 - Fork an open-source repo
 - Make a small contribution to an open-source repository, e.g. fix a typo
 
